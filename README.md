@@ -88,7 +88,7 @@ Confirm the changes and apply the plan.
 
 This project uses the following Terraform modules:
 
-Module Name: [EkS, RDS, VPC,Cognito,APIGateway]
+Module Name: [EkS, RDS, VPC,Cognito,APIGateway,EFS,S3]
 
 
 ### Variables
@@ -112,6 +112,6 @@ key_pair_name: Name for the EC2 key pair.
 
 ### Outputs
 
-After applying the Terraform configuration, the outputs will be displayed.
+After applying the Terraform configuration, the resources will be created.
 
 
