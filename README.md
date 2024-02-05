@@ -16,6 +16,9 @@ DIABOS provides disbursement account processing, cash management and port cost m
 | :-------- | :------- |
 |  Infrastructure Provisioning      | Terraform, Cloud Provider (AWS) |
 | Deployment and Orchestration      | AWS Code Pipeline, EKS |
+| Database                          | RDS, MONGODB
+| Monitoring                        | Grafana
+| Logs                              | ELK
 
 
 # Terraform Provisioning Project
