@@ -3,6 +3,8 @@
 
 DIABOS provides disbursement account processing, cash management and port cost management services to maritime industry worldwide.
 
+## Architecture
+(https://minfytech-my.sharepoint.com/personal/sreeram_daasetti_minfytech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fsreeram%5Fdaasetti%5Fminfytech%5Fcom%2FDocuments%2FDevOps%2DProjects%2FAES%20Devops%2FAll%20Projects%2FPortall%2FJMBaxi%2DDiabos%2FArch)
 
 ## Documentation
 
