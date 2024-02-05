@@ -1,5 +1,5 @@
 
-# PROPELOR
+# Diabos
 
 Propelor is both the hardware that drives goods through seas and skies, but equally the desire that inspires us to propel businesses forward with an unstoppable sense of progress.
 
