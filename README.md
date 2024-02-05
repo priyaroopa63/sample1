@@ -1,12 +1,12 @@
 
 # Diabos
 
-Propelor is both the hardware that drives goods through seas and skies, but equally the desire that inspires us to propel businesses forward with an unstoppable sense of progress.
+DIABOS provides disbursement account processing, cash management and port cost management services to maritime industry worldwide.
 
 
 ## Documentation
 
-(https://minfytech-my.sharepoint.com/:w:/p/sreeram_daasetti/EffvlNNllo5KmUuPANJZ8EkB_p2s7zeqW_ZaPYBF_lnLCA?e=52qfaj)
+(https://minfytech-my.sharepoint.com/personal/sreeram_daasetti_minfytech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fsreeram%5Fdaasetti%5Fminfytech%5Fcom%2FDocuments%2FDevOps%2DProjects%2FAES%20Devops%2FAll%20Projects%2FPortall%2FJMBaxi%2DDiabos%2FDocuments)
 
 ## Tools used
 
@@ -86,7 +86,7 @@ Confirm the changes and apply the plan.
 
 This project uses the following Terraform modules:
 
-Module Name: [ECS, RDS, VPC]
+Module Name: [EkS, RDS, VPC,Cognito,APIGateway]
 
 
 ### Variables
